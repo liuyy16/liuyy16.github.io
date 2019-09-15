@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## &laquo;毛泽东选集&nbsp;第一卷&raquo;
+# 简介
 
-You can use the [editor on GitHub](https://github.com/liuyy16/liuyy16.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+&laquo;毛泽东选集&raquo;是毛泽东思想的重要载体，&laquo;毛泽东选集&raquo;第一卷主要收录了第一、二次国内革命时期的主要文献。主要篇目有：中国社会各阶级的分析、 湖南农民运动考察报告、星星之火，可以燎原、反对本本主义、实践论、矛盾论....等名篇。
 
 ### Markdown
 
